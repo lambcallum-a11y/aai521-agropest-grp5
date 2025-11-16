@@ -1,0 +1,18 @@
+path: /content/AAI521_AgroPest12/datasets/agropest12
+train: /content/AAI521_AgroPest12/datasets/agropest12/train/images
+val: /content/AAI521_AgroPest12/datasets/agropest12/valid/images
+test: /content/AAI521_AgroPest12/datasets/agropest12/test/images
+nc: 12
+names:
+- Ants
+- Bees
+- Beetles
+- Caterpillars
+- Earthworms
+- Earwigs
+- Grasshoppers
+- Moths
+- Slugs
+- Snails
+- Wasps
+- Weevils
